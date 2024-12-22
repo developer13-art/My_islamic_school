@@ -1144,7 +1144,7 @@ h2 {
   display: grid;
   grid-template-columns: 1fr;
   width: 300px;
-  height: 1050px;
+  height: 1100px;
   margin: auto;
   background-color: #C8C8C8;
   box-shadow: -10px -10px 5px #5D5D5D;
@@ -1153,7 +1153,7 @@ h2 {
 
 .event .one {
   width: 230px;
-  height: 270px;
+  height: 290px;
   margin: 20px 10px 0px 30px;
   border-radius: 10px;
   box-shadow: 10px 10px 4px #575757;
@@ -1201,7 +1201,7 @@ h2 {
 
 .event .two {
   width: 230px;
-  height: 270px;
+  height: 300px;
   margin: 20px 0px 0px 30px;
   border-radius: 10px;
   box-shadow: 10px 10px 4px #575757;
@@ -1249,7 +1249,7 @@ h2 {
 
 .event .three {
   width: 230px;
-  height: 270px;
+  height: 300px;
   margin: 20px 0px 0px 30px;
   border-radius: 10px;
   box-shadow: 10px 10px 4px #575757;
@@ -1297,7 +1297,7 @@ h2 {
 
 .about {
   width: 300px;
-  height: 580px;
+  height: 650px;
   margin: auto;
   display: block;
   background-color: #C8C8C8;
@@ -1307,7 +1307,7 @@ h2 {
 
 .about .menu {
     display: block;
-    width: 290px;
+    width: 550px;
     height: 350px;
     margin: 10px 10px 10px 10px;
     border-radius: 10px;
@@ -1342,7 +1342,7 @@ h2 {
   display: grid;
   grid-template-columns: 1fr;
   width: 300px;
-  height: 700px;
+  height: 900px;
   margin: auto;
   background-color: #C8C8C8;
   box-shadow: -10px -10px 5px #5D5D5D;
@@ -1441,7 +1441,7 @@ h3 {
 .main p {
   text-align: center;
   padding-top: 15px;
-  font-size: 12px;
+  font-size: 15px;
   font-weight: 600;
   font-style: italic;
 }
@@ -1583,7 +1583,7 @@ h3 {
 
 .contact {
   text-align: center;
-  height: 1000px;
+  height: 1100px;
   width: 300px;
   margin: 10px 10px 10px 30px;
   background-color: #C8C8C8;
@@ -1597,7 +1597,7 @@ h3 {
 
 .contact ul li {
   padding-top: 20px;
-  font-size:20px;
+  font-size:15px;
   font-weight: 600;
 }
 
