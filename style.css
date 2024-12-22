@@ -1201,7 +1201,7 @@ h2 {
 
 .event .two {
   width: 230px;
-  height: 300px;
+  height: 315px;
   margin: 20px 0px 0px 30px;
   border-radius: 10px;
   box-shadow: 10px 10px 4px #575757;
@@ -1249,7 +1249,7 @@ h2 {
 
 .event .three {
   width: 230px;
-  height: 300px;
+  height: 330px;
   margin: 20px 0px 0px 30px;
   border-radius: 10px;
   box-shadow: 10px 10px 4px #575757;
@@ -1297,7 +1297,7 @@ h2 {
 
 .about {
   width: 300px;
-  height: 550px;
+  height: 450px;
   margin: auto;
   display: block;
   background-color: #C8C8C8;
@@ -1343,7 +1343,7 @@ h2 {
   display: grid;
   grid-template-columns: 1fr;
   width: 300px;
-  height: 900px;
+  height: 800px;
   margin: auto;
   background-color: #C8C8C8;
   box-shadow: -10px -10px 5px #5D5D5D;
