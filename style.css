@@ -1144,7 +1144,7 @@ h2 {
   display: grid;
   grid-template-columns: 1fr;
   width: 300px;
-  height: 1200px;
+  height: 1050px;
   margin: auto;
   background-color: #C8C8C8;
   box-shadow: -10px -10px 5px #5D5D5D;
@@ -1201,7 +1201,7 @@ h2 {
 
 .event .two {
   width: 230px;
-  height: 200px;
+  height: 270px;
   margin: 20px 0px 0px 30px;
   border-radius: 10px;
   box-shadow: 10px 10px 4px #575757;
@@ -1249,7 +1249,7 @@ h2 {
 
 .event .three {
   width: 230px;
-  height: 220px;
+  height: 270px;
   margin: 20px 0px 0px 30px;
   border-radius: 10px;
   box-shadow: 10px 10px 4px #575757;
@@ -1297,7 +1297,7 @@ h2 {
 
 .about {
   width: 300px;
-  height: 500px;
+  height: 580px;
   margin: auto;
   display: block;
   background-color: #C8C8C8;
@@ -1308,7 +1308,7 @@ h2 {
 .about .menu {
     display: block;
     width: 290px;
-    height: 220px;
+    height: 350px;
     margin: 10px 10px 10px 10px;
     border-radius: 10px;
     background-color: #BEBEBE;
@@ -1342,7 +1342,7 @@ h2 {
   display: grid;
   grid-template-columns: 1fr;
   width: 300px;
-  height: 900px;
+  height: 700px;
   margin: auto;
   background-color: #C8C8C8;
   box-shadow: -10px -10px 5px #5D5D5D;
@@ -1583,7 +1583,7 @@ h3 {
 
 .contact {
   text-align: center;
-  height: 1100px;
+  height: 1000px;
   width: 300px;
   margin: 10px 10px 10px 30px;
   background-color: #C8C8C8;
