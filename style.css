@@ -1297,7 +1297,7 @@ h2 {
 
 .about {
   width: 300px;
-  height: 500px;
+  height: 550px;
   margin: auto;
   display: block;
   background-color: #C8C8C8;
@@ -1324,7 +1324,8 @@ h2 {
 .about  p {
   text-align: center;
   padding-top: 0px;
-  font-weight: 500;
+  font-weight: 400;
+  font-size: 15px;
   font-style: italic;
 }
 
